@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://upworkout.github.io/sitemapx.xml
